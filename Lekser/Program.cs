@@ -31,6 +31,10 @@ namespace Lekser
                 );
             }
 
+            Console.WriteLine("Test");
+            Console.WriteLine("Test");
+            Console.WriteLine("Test");
+
             Console.ReadLine();
         }
     }
